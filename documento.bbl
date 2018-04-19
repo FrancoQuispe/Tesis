@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{Wister2013}
+M.~Wister, F.~Acosta, P.~Pancardo, and J.~A. Hernandez-Nolasco, ``Towards an
+  intelligent environment for urban flood rescue scenarios,'' {\em
+  International Journal of Engineering Research and Applications (IJERA)},
+  pp.~1040--1044, 2013.
+
+\bibitem{Wister2015}
+M.~A. Wister, P.~Pancardo, F.~D. Acosta, J.~Hernandez-Nolasco, and
+  E.~Sanchez-Delacruz, ``Experiences with {RFID} technology to manage
+  information during natural disasters,'' in {\em 2015 9th International
+  Conference on Innovative Mobile and Internet Services in Ubiquitous
+  Computing}, {IEEE}, jul 2015.
+
+\bibitem{HernandezGoya2014}
+C.~Hern{\'a}ndez~Goya, A.~Rivero~Garc{\'\i}a, and P.~Caballero~Gil,
+  ``Fasttriaje: un asistente para la clasificación de víctimas en situaciones
+  de emergencia con autenticación robusta,'' 2014.
+
+\bibitem{Cherrez2010}
+D.~F. Veloz~Chérrez, ``Diseño e implementación de un prototipo para control
+  de acceso de personas aplicando la tecnología nfc por medio del uso de
+  teléfonos celulares compatibles con esta tecnología,'' Master's thesis,
+  Quito, 2010, 2010.
+
+\bibitem{Chulde2014}
+C.~Chulde and J.~Maria, ``Estudio, diseño e implementacion de un sistema que
+  use tecnologia nfc para el control de asistencia de los alumnos de la
+  universidad israel,'' {B.S.} thesis, Quito: Universidad Israel, 2014, 2014.
+
+\bibitem{Benyo2007}
+B.~Benyo, A.~Vilmos, K.~Kovacs, and L.~Kutor, ``{NFC} applications and business
+  model of the ecosystem,'' in {\em 2007 16th {IST} Mobile and Wireless
+  Communications Summit}, {IEEE}, jul 2007.
+
+\bibitem{Benyo2009}
+B.~Benyo, A.~Vilmos, G.~Fordos, B.~Sodor, and L.~Kovacs, ``The {StoLPan} view
+  of the {NFC} ecosystem,'' in {\em 2009 Wireless Telecommunications
+  Symposium}, {IEEE}, may 2009.
+
+\bibitem{Lupu2013}
+C.~Lupu, V.~Olaru, D.~Bivolan, and A.~Udrea, ``Implementation of a telemedicine
+  system for optimal on site medical response in case of disasters and for
+  emergency situations management,'' in {\em E-Health and Bioengineering
+  Conference (EHB), 2013}, pp.~1--4, IEEE, 2013.
+
+\bibitem{CruzRoja}
+{Cruz Roja}, ``Manual nacional para el manejo de albergues temporales,'' 2013.
+
+\bibitem{Al-Akkad}
+A.~Al-Akkad, ``Working around disruptions of network infrastructures-design and
+  evaluation of mobile ad-hoc systems for resilient communication in
+  disasters,'' 2015.
+
+\bibitem{lozada2014}
+J.~Lozada, ``Investigaci{\'o}n aplicada: Definicion, propiedad intelectual e
+  industria,'' {\em Revista CienciAm{\'e}rica}, vol.~3, no.~1, pp.~47--50,
+  2014.
+
+\bibitem{grajales2000}
+T.~Grajales, ``Tipos de investigación,'' {\em On line)(27/03/2.000). Revisado
+  el}, vol.~14, 2000.
+
+\bibitem{sabino}
+C.~A. Sabino, ``El proceso cle investigación,'' 1992.
+
+\bibitem{CondeGomez2017}
+S.~Conde~Gómez, ``Control de asistencia mediante técnicas nfc,'' Master's
+  thesis, Universidad Politécnica de Madrid, 2017.
+
+\bibitem{romero1993}
+G.~Romero and A.~Maskrey, ``Cómo entender los desastres naturales,'' {\em Los
+  desastres no son naturales}, pp.~6--10, 1993.
+
+\bibitem{vargas2002}
+J.~E. Vargas, {\em Políticas públicas para la reducción de la vulnerabilidad
+  frente a los desastres naturales y socio-naturales}, vol.~50.
+\newblock United Nations Publications, 2002.
+
+\bibitem{Chavarria2011}
+D.~Chavarría, ``Tecnologia de comunicación de campo cercano (nfc) y sus
+  aplicaciones,'' {\em Recuperado el}, vol.~28, 2011.
+
+\bibitem{VicenteGarcia2011}
+E.~Vicente~Garc{\'\i}a, ``Desarrollo de una aplicaci{\'o}n de control de acceso
+  y sistemas de identificaci{\'o}n mediante la tecnolog{\'\i}a nfc,'' {B.S.}
+  thesis, Universidad Carlos III de Madrid, 2011.
+
+\bibitem{Bluetooth}
+{SIG Bluetooth}, ``https://www.bluetooth.com/, visitado en setiembre de 2017.''
+
+\bibitem{pdf2}
+{Biblioteca Tomás Navarro Tomás - CSIC}, ``Identificación, etiquetado e
+  integración del nuevo fondo bibliotecario del csic,'' 2008.
+
+\bibitem{garde2016}
+P.~Garde~Paniagua {\em et~al.}, ``Estudio de implantación de sistema de
+  trazabilidad rfid en el proceso productivo de tasubinsa,'' 2016.
+
+\bibitem{Carignano2011}
+M.~Carignano and P.~Ferreyra, ``Tecnología inalámbrica near field
+  communication y sus aplicaciones en sistemas embebidos,'' {\em Recuperado
+  del}, vol.~29, 2011.
+
+\bibitem{Zigbee}
+{Zigbee Alliance}, ``http://www.zigbee.org/what-is-zigbee/, visitado en
+  setiembre de 2017.''
+
+\bibitem{Antonio2016}
+A.~M. Antonio, ``Desarrollo de una guía para la implementación de
+  aplicaciones basadas en nfc,'' Master's thesis, Universidad Politécnica de
+  Valencia, 2016.
+
+\bibitem{NFCrango}
+{NFC forum}, ``http://nfc-forum.org/what-is-nfc/about-the-technology/, visitado
+  en 17 de mayo del 2017.''
+
+\bibitem{Anaya2015}
+A.~Anaya, I.~López, C.~Romero, B.~Olivares, and H.~Mu{\~n}oz, ``Arquitectura
+  de referencia para aplicaciones con tecnología nfc basadas en android,''
+  {\em Avances en Tecnologías de Informaci{\'o}n}, p.~45, 2015.
+
+\bibitem{NFC1}
+{NFC Forum}, ``http://nfc-forum.org/what-is-nfc/, visitado el 24 de abril del
+  2017.''
+
+\bibitem{NFC2}
+{NFC Forum},
+  ``http://nfc-forum.org/three-questions-with-juergen-boehler-nfc-forum-technical-committee-chair-about-the-isoiec-14443-analog-parameter-comparison-and-alignment-white-paper/,
+  visitado en 24 de abril del 2017.''
+
+\bibitem{NFC3}
+{NFC Forum},
+  ``http://nfc-forum.org/newsroom/nfc-forum-releases-spec-supporting-use-of-iso-15693-tags/,
+  visitado el 24 de abril del 2017.''
+
+\bibitem{NFC2013}
+{ISO}, ``https://www.iso.org/standard/56692.html, visitado en setiembre de
+  2017.''
+
+\bibitem{ECMA}
+{ECMA},
+  ``https://www.ecma-international.org/publications/files/ecma-st/ecma-340.pdf,
+  junio de 2013.''
+
+\bibitem{parte1}
+{I.JTC I/SC 17}, ``Identication cards - contacless integrated circuit cards -
+  pro-ximity cards - part 1 : Physical characteristics,'' 2016.
+
+\bibitem{parte2}
+{I.JTC I/SC 17}, ``Identication cards - contacless integrated circuit cards -
+  pro-ximity cards - part 2 : Physical characteristics,'' 2016.
+
+\bibitem{parte3}
+{I.JTC I/SC 17}, ``Identication cards - contacless integrated circuit cards -
+  pro-ximity cards - part 3 : Physical characteristics,'' 2016.
+
+\bibitem{parte4}
+{I.JTC I/SC 17}, ``Identication cards - contacless integrated circuit cards -
+  pro-ximity cards - part 4 : Physical characteristics,'' 2016.
+
+\end{thebibliography}
